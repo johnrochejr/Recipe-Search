@@ -1,0 +1,16 @@
+img {
+  width: 13em;
+  margin: .5em;
+  align-content: center;
+}
+
+.row1 {
+  display: flex;
+  justify-content: center;
+  flex-basis: 100%;
+  margin: .5em;
+}
+
+.searchresult {
+  margin: 11em 1em 0 1em;
+}
