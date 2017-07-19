@@ -1,5 +1,5 @@
 img {
-  width: 23em;
+  width: 15em;
   margin: .5em;
   height: 9em;
 }
@@ -14,4 +14,8 @@ img {
 .searchresult {
   display: flex;
   flex-wrap: wrap;
+}
+
+body  {
+  margin: 1em;
 }
